@@ -1,0 +1,23 @@
+node_modules/
+playwright-report/
+test-results/
+
+# Maven / compilación
+target/
+bin/
+
+# IDEs
+.idea/
+.vscode/
+.classpath
+.project
+.settings/
+*.iml
+
+# Sistema operativo
+.DS_Store
+Thumbs.db
+
+# Logs y variables de entorno
+*.log
+.env
